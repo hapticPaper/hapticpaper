@@ -1,5 +1,7 @@
 ### [hapticpaper.github.io](http://hapticpaper.github.io)
 
+Information and Data science is cool. 
+
 <!--
 **hapticPaper/hapticpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
